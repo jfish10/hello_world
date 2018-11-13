@@ -4,6 +4,15 @@
 }
 body {
   background: black url('images/background.jpg') top center no-repeat;
+  font-size: 20px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: lighter;
+  text-align: center;
+  padding: 40px;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+  textkit-rendering: optimizelegibility;
+  
 }
   
    
