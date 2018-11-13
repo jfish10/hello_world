@@ -22,6 +22,9 @@ h1, h2, h3, h4, h5, h6 {
   width: 600px;
   margin: 0 auto;
 }
-
+.content-block {
+  background: url('images/transparent_white.png') top left repeat;
+  padding: 20px;
+  margin: 20px 0
   
    
