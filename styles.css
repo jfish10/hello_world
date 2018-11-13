@@ -1,1 +1,12 @@
+a {
+  color: #3ca;
+  text-decoration: none;
+}
 
+.border-box {
+  background: #eee;
+  margin: 0 0 20px;
+  padding: 20px;
+  width: 300px;
+}
+    
