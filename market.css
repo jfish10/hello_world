@@ -3,7 +3,7 @@
   padding: 0;
 }
 body {
-  background: #adb195 url('green_background.jpg') top left repeat;
+  background: #adb195 url('images/green_background.jpg') top left repeat;
   color:#75480a;
   /*Thanks to CSSFontStack.com*/
   font-family:"Lucida Grande","Lucida Sans Unicode","Lucida Sans",
@@ -23,7 +23,7 @@ body {
   width:780px;
   margin: 0 auto;
   padding: 40px;
-  background: url('yellow_background.jpg') top left repeat;
+  background: url('images/yellow_background.jpg') top left repeat;
 }
 
 #container:after {
@@ -39,7 +39,7 @@ body {
 
 }
 #sidebar {
-  background: url('texture_background.jpg') top left repeat;
+  background: url('images/texture_background.jpg') top left repeat;
   width: 210px;
   float: left;
   padding:20px 20px 0;
@@ -47,7 +47,7 @@ body {
 }
 
 #sidebar h3 {
-  background: url('green_background.jpg') top left repeat;
+  background: url('images/green_background.jpg') top left repeat;
   padding: 10px 10px 10px 30px;
   margin: 0 0 5px;
   color: white;
@@ -64,7 +64,7 @@ body {
 }
 
 #special-offer {
-  background: url('red_background.jpg') top left repeat;
+  background: url('images/red_background.jpg') top left repeat;
   color:white;
   padding: 0 20px 20px;
   margin: 20px 0 0 0;
@@ -73,7 +73,7 @@ body {
 }
 #special-offer h2 {
   font-size: 22px;
-  background: url('green_background.jpg') top left repeat;
+  background: url('images/green_background.jpg') top left repeat;
   padding: 5px;
   display: inline;
   position: relative;
